@@ -1,1 +1,1 @@
-Perhaps short MNST and long TAP
+This took me all day to make. I may be completely wrong, but I did learn a lot and had a fun time doing so. Through making this, I came to the conclusion that if you wanted to pair trade, shorting MNST and picking up long TAP positions could yield the most profit, while minimizing risk from the short MNST positions.
