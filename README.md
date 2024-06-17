@@ -1,1 +1,1 @@
-This took me all day to make. I may be completely wrong, but I did learn a lot and had a fun time doing so. Through making this, I came to the conclusion that if you wanted to pair trade, shorting MNST and picking up long TAP positions could yield the most profit, while minimizing risk from the short MNST positions.
+During my internship at Northrock Capital I was asked to find the best company to pair trade with MNST. This program shows potential companies to pair trade with MNST and analyzes the best one through a series of correlation and cointegration tests.
