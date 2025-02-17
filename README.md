@@ -1,1 +1,1 @@
-During my internship at Northrock Capital I was asked to find the best company to pair trade with MNST. This program shows potential companies to pair trade with MNST and analyzes the best one through a series of correlation and cointegration tests.
+This is my pairs trading program that I customized during my internship at Northrock Capital to find potential companies to pair trade with MNST.
